@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { 
   Brain, Wifi, Globe, Code2, Database, 
   Sparkles, Check, X, 
